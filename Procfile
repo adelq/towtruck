@@ -1,2 +1,1 @@
-web: node app/http/server.js
-hub: node app/hub/server.js
+web: node hub/server.js
